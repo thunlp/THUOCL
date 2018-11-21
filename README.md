@@ -39,7 +39,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：CSDN博客
 	* 更新时间：2016-12-24
 	* 贡献者：马云山、韩世依、张钰晖
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_IT.txt)
 
 * 财经
 	* 词表简介：本词表包含了大量财经类词汇。
@@ -48,7 +48,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：新浪新闻
 	* 更新时间：2016-12-24
 	* 贡献者：韩世依、张钰晖、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_caijing.txt)
 
 * 成语
 	* 词表简介：本词表包含了大量成语词汇。
@@ -57,7 +57,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：新浪新闻
 	* 更新时间：2016-12-24
 	* 贡献者：韩世依、张钰晖、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_chengyu.txt)
 
 * 地名
 	* 词表简介：本词表包含了大量地名词汇。
@@ -66,7 +66,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：搜狗语料
 	* 更新时间：2017-06-01
 	* 贡献者：韩世依、张钰晖、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_diming.txt)
 
 * 历史名人
 	* 词表简介：本词表包含了大量历史名人类词汇。
@@ -75,7 +75,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：新浪新闻
 	* 更新时间：2016-12-24
 	* 贡献者：韩世依、张钰晖、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_lishimingren.txt)
 
 * 诗词
 	* 词表简介：本词表包含了大量诗词名句。
@@ -84,7 +84,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：新浪新闻
 	* 更新时间：2017-01-20
 	* 贡献者：张钰晖、韩世依、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_poem.txt)
 
 * 医学
 	* 词表简介：本词表包含了大量医学类词汇。
@@ -93,7 +93,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：新浪新闻
 	* 更新时间：2017-01-20
 	* 贡献者：张钰晖、韩世依、马云山
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_medical.txt)
 
 * 饮食
 	* 词库简介：本词库包含了大部分饮食类词汇。
@@ -102,7 +102,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：搜狗语料
 	* 更新时间：2017-04-20
 	* 贡献者：王盟源、吴佼玉、黄伟杰，林永天
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_food.txt)
 
 * 法律
 	* 词库简介：本词库包含了大部分法律类词汇。
@@ -111,7 +111,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：搜狗语料
 	* 更新时间：2017-04-28
 	* 贡献者：王盟源、吴佼玉、黄伟杰，林永天
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_law.txt)
 
 * 汽车
 	* 词库简介：本词库包含了大部分汽车类词汇。
@@ -120,7 +120,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：搜狗语料
 	* 更新时间：2017-05-15
 	* 贡献者：王盟源、吴佼玉、黄伟杰，林永天
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_car.txt)
 
 * 动物
 	* 词库简介：本词库包含了大部分动物类词汇。
@@ -129,7 +129,7 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 	* 词频统计语料库：搜狗语料
 	* 更新时间：2017-06-01
 	* 贡献者：王盟源、吴佼玉、黄伟杰，林永天
-	* 下载链接：点此下载
+	* 下载链接：[点此下载](https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_animal.txt)
 
 ## 开源协议	
 
